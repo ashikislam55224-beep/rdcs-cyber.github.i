@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>All Reports -RDCS Cyber Report Hub</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0c0c0c;
+  color: #eee;
+}
+header {
+  background: #111;
+  padding: 25px;
+  text-align: center;
+  font-size: 24px;
+  color: #00eaff;
+}
+.section {
+  margin: 15px;
+  padding: 15px;
+  background: #1a1a1a;
+  border-radius: 8px;
+}
+.section h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 6px;
+  color: #ff6666;
+}
+a {
+  display: block;
+  margin: 8px 0;
+  padding: 10px;
+  background: #222;
+  color: #00ffcc;
+  text-decoration: none;
+  border-radius: 6px;
+}
+a:hover {
+  background: #00ffcc;
+  color: #000;
+}
+footer {
+  margin-top: 30px;
+  padding: 12px;
+  text-align: center;
+  font-size: 12px;
+  color: #aaa;
+}
+</style>
+</head>
+<body>
+
+<header>
+  📍 RDCS CYBER REPORT HUB — All Reports in One
+</header>
+
+<div class="section">
+  <h2>🌐 Phishing & Malware Reports</h2>
+  <a href="https://safebrowsing.google.com/safebrowsing/report_phish/">Google Phishing Report</a>
+  <a href="https://www.virustotal.com/">VirusTotal Analysis</a>
+  <a href="https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site">Microsoft Unsafe Site Report</a>
+</div>
+
+<div class="section">
+  <h2>📘 Facebook Report Links</h2>
+  <a href="https://www.facebook.com/help/181495968648557">Report Fake Accounts</a>
+  <a href="https://www.facebook.com/help/contact/144059062408922">Copyright Violations</a>
+  <a href="https://www.facebook.com/help/contact/209046679279097">Harassment/Abuse Report</a>
+  <a href="https://www.facebook.com/help/contact/260749603972907">Report Intellectual Property</a>
+</div>
+
+<div class="section">
+  <h2>📸 Instagram Report Links</h2>
+  <a href="https://www.instagram.com/accounts/contact_report/">Report Instagram Account</a>
+  <a href="https://help.instagram.com/454951664593321">Copyright Report</a>
+  <a href="https://www.instagram.com/hacked/">Hacked Account Help</a>
+</div>
+
+<div class="section">
+  <h2>🎵 TikTok Report Links</h2>
+  <a href="https://www.tiktok.com/legal/report/feedback">Report on TikTok</a>
+  <a href="https://www.tiktok.com/safety/en/">TikTok Safety Center</a>
+</div>
+
+<div class="section">
+  <h2>🇧🇩 Bangladesh Cyber Support</h2>
+  <a href="https://www.cid.gov.bd/">CID Cyber Crime (Govt.)</a>
+  <a href="https://www.bkash.com/help">bKash Support</a>
+  <a href="https://www.nagad.com.bd/">Nagad Support</a>
+  <a href="https://www.grameenphone.com/">Grameenphone Support</a>
+  <a href="https://www.robi.com.bd/">Robi Support</a>
+  <a href="https://www.banglalink.net/">Banglalink Support</a>
+</div>
+
+<div class="section">
+  <h2>🛠 Cyber Awareness & Alerts</h2>
+  <a href="https://cirt.gov.bd/phishing-awareness-bd-jan25/">Emerging Phishing Alerts (BD)</a>
+  <a href="https://cirt.gov.bd/safety-from-email/">Email Security Tips</a>
+  <a href="https://cirt.gov.bd/">Bangladesh e-Gov CIRT Official</a>
+</div>
+
+<footer>
+  Developed by CYBER REPORT HUB • Build a safer digital Bangladesh 🇧🇩
+</footer>
+
+</body>
+</html>
